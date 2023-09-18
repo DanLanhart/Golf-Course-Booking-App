@@ -9,29 +9,28 @@ const Footer = () => {
           <li className="fListItem">Regions</li>
           <li className="fListItem">Cities</li>
           <li className="fListItem">Districts</li>
-          <li className="fListItem">Airports</li>
-          <li className="fListItem">Hotels</li>
+          <li className="fListItem">Tee Times</li>
+          <li className="fListItem">Course</li>
         </ul>
         <ul className="fList">
-          <li className="fListItem">Homes </li>
-          <li className="fListItem">Apartments </li>
-          <li className="fListItem">Resorts </li>
-          <li className="fListItem">Villas</li>
-          <li className="fListItem">Hostels</li>
-          <li className="fListItem">Guest houses</li>
+          <li className="fListItem">Links Courses </li>
+          <li className="fListItem">Parkland Courses </li>
+          <li className="fListItem">Sandbelt Courses </li>
+          <li className="fListItem">Heathland Courses</li>
+          <li className="fListItem">Championship Courses</li>
         </ul>
         <ul className="fList">
           <li className="fListItem">Unique places to stay </li>
           <li className="fListItem">Reviews</li>
-          <li className="fListItem">Unpacked: Travel articles </li>
-          <li className="fListItem">Travel communities </li>
+          <li className="fListItem">Hole in One!: Golf articles </li>
+          <li className="fListItem">Golf communities </li>
           <li className="fListItem">Seasonal and holiday deals </li>
         </ul>
         <ul className="fList">
-          <li className="fListItem">Car rental </li>
-          <li className="fListItem">Flight Finder</li>
+          <li className="fListItem">Club rental </li>
+          <li className="fListItem">Handicap Finder</li>
           <li className="fListItem">Restaurant reservations </li>
-          <li className="fListItem">Travel Agents </li>
+          <li className="fListItem">Tournament Agents </li>
         </ul>
         <ul className="fList">
           <li className="fListItem">Curtomer Service</li>

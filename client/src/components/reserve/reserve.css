@@ -60,7 +60,7 @@
   color: gray;
 }
 
-.room {
+.teeTime {
   display: flex;
   flex-direction: column;
 }
